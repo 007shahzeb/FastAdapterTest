@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="row_height">42dp</dimen>
+    <dimen name="form_width">154dp</dimen>
+    <dimen name="fast_scroll_overlay_text_size">100dp</dimen>
+
+    <dimen name="text_size_19sp">19sp</dimen>
+
+
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+
+    <!--<string name="app_name">ValidationDemo</string>-->
+    <string name="validation_name">Please, enter the name</string>
+    <string name="validation_name_length">Please, enter the name with at least 3 characters</string>
+    <string name="validation_participants">Please, enter the number of participants</string>
+    <string name="validation_valid_email">Please, enter valid email address</string>
+    <string name="validation_date">Date must be in future</string>
+    <string name="validation_type">Please, select type</string>
+    <string name="validation_address">Fill in the address</string>
+    <string name="validation_max_lenght">Max length should be 5</string>
+    <string name="validation_min_lenght">Min length should be 1</string>
+    <string name="validation_success">Validation succeeded! \nThat was easy, wasn\'t it?</string>
+
+    <string name="demo_menu_live_validation_enable">Enable live validation</string>
+    <string name="demo_menu_live_validation_disable">Disable live validation</string>
+    <string name="demo_email_hint">E-mail address</string>
+    <string name="demo_email">Email</string>
+    <string name="demo_address">Address</string>
+    <string name="demo_type">Type</string>
+    <string name="demo_pick_date">Pick Date</string>
+    <string name="demo_date">Date</string>
+    <string name="demo_participants_hint"># of participants</string>
+    <string name="demo_number_of_participants">Participants</string>
+    <string name="demo_name">Name</string>
+    <string name="app_name">List with side alphabet</string>
+
+
+    <string name="loading">Loading&#8230;</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="hint">Enter some text here</string>
+    <string name="save">Save</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="saved">Saved in SharedPreferences. Go to second activity.</string>
+    <string name="info">After saving, on subsequent launch go to second activity without saving. You will still see the saved data.</string>
+
+
+</resources>
