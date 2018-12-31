@@ -8,6 +8,9 @@ import static android.content.Context.MODE_PRIVATE;
 public class Preference {
 
 
+    // https://github.com/Flutterwave/rave-android
+
+
     private static final String PREFS_NAME = "AOP_PREFS";
     private static final String PREFS_KEY = "AOP_PREFS_String";
 
@@ -25,6 +28,7 @@ public class Preference {
         editor = settings.edit(); //2
         editor.putString(PREFS_KEY, text); //3
         editor.apply(); //4
+
     }
 
 
@@ -46,6 +50,7 @@ public class Preference {
         editor = settings.edit();
         editor.clear();
         editor.apply();
+
     }
 
     public void removeValue(Context context) {
