@@ -46,7 +46,7 @@
         <activity android:name="android.com.UI_AND_THEMES.check.SecndActivity" />
 
 
-        <activity android:name="android.com.navigationCustom.MainActivityNavigation">
+        <activity android:name="android.com.parseArray.MainActivity">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -55,6 +55,10 @@
             </intent-filter>
 
         </activity>
+
+
+        <activity android:name="android.com.ratingbar.MainActivity"
+            android:exported="true"/>
 
 
     </application>
